@@ -3,3 +3,5 @@
 /build
 erl_crash.dump
 _gleam_artefacts
+.direnv
+result
